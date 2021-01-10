@@ -90,5 +90,5 @@ def main():
 if __name__ == '__main__':
     main()
 
-#Token Stealer Made By LukeLineᵐᶦˢʰᶦ#2321
+#Token Stealer Made By GotDoxed#2321
 #GitHub = https://github.com/LukeMine/Token-Grabber-
